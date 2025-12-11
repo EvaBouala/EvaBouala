@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 My Goals
+# 🎯 My Goals
 - Develop my skills as a creative Front-End Developer with a strong interest in UI.
 - Strengthen my understanding of user-centered design to build intuitive and engaging interfaces.
 - Grow my project management abilities to take on more coordination and leadership responsibilities.
