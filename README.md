@@ -26,9 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 
 ---
-#### 🧩 My Projects
-
----
 #### 📫 Contact Me
 📧 Mail : eva.bouala@edu.devinci.fr
+
 🔗 LinkedIn : https://www.linkedin.com/in/eva-bouala-75b87b38b/
