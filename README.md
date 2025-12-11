@@ -31,6 +31,5 @@
 
 ---
 #### 📫 Contact Me
-📧 Mail : eva.bouala@edu.devinci.fr
-
-🔗 LinkedIn : https://www.linkedin.com/in/eva-bouala-75b87b38b/
+- 📧 Mail : eva.bouala@edu.devinci.fr
+- 🔗 LinkedIn : https://www.linkedin.com/in/eva-bouala-75b87b38b/
